@@ -1,0 +1,5 @@
+{
+    "omnisharp.useModernNet": true,
+
+    "dotnet-test-explorer.testProjectPath": "**/*Test.csproj"
+}
